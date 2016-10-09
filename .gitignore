@@ -1,0 +1,10 @@
+*.sdf
+*.sln
+*.suo
+Debug
+Release
+*.vcxproj
+*.vcxproj.filters
+*.layout
+*.cbp
+*.depend
